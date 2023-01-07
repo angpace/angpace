@@ -13,3 +13,7 @@
 # Reminiscent Demo
 
 ![Reminiscentgif](https://user-images.githubusercontent.com/108838753/205720363-cab36e7d-c6ae-485a-af6b-a6061ba2e08c.gif)
+
+# NYCleans Demo
+
+![NYCleans](https://user-images.githubusercontent.com/108838753/211165189-09c03276-20b4-4aad-a15f-f83b3d1e0155.gif)
