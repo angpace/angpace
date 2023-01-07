@@ -17,3 +17,7 @@
 # NYCleans Demo
 
 ![NYCleans](https://user-images.githubusercontent.com/108838753/211165189-09c03276-20b4-4aad-a15f-f83b3d1e0155.gif)
+
+# Privée Demo
+
+![privee](https://user-images.githubusercontent.com/108838753/211168035-c9b025cf-241b-42de-906c-b993ab2ae6ff.gif)
