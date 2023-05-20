@@ -10,7 +10,9 @@ Motivated Junior Software Engineer with a unique background as a 3 Michelin-star
 *   🖥️  See my portfolio at [Kitchen and Code](http://kitchenandcode.com)
 *   ✉️  You can contact me at [angpace13@gmail.com](mailto:angpace13@gmail.com)
 *   🧠  I'm learning Zero to Mastery: Mastering the Coding Interview, Data Structures and Algorithms.
-*   🤝  I'm open to collaborating on any projects where I could learn something new!### Skills 
+*   🤝  I'm open to collaborating on any projects where I could learn something new!
+
+Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -22,7 +24,7 @@ Motivated Junior Software Engineer with a unique background as a 3 Michelin-star
 </p>
                   
                   
-
+Socials
 <p align="left"> <a href="https://discord.com/users/angpace13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/angpace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/@heyitspastry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angpace/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@angpace13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angpace&show_icons=true&theme=tokyonight"/>
