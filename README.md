@@ -7,7 +7,7 @@ Software Engineer
 Motivated Junior Software Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.
 
 *   🌍  I'm based in New York City
-*   🖥️  See my portfolio at [Kitchen and Code](http://kitchenandcode.com)
+*   🖥️  See my portfolio at [Angelapace.tech](https://angelapace.tech/)
 *   ✉️  You can contact me at [angpace13@gmail.com](mailto:angpace13@gmail.com)
 *   🧠  I'm learning Zero to Mastery: Mastering the Coding Interview, Data Structures and Algorithms.
 *   🤝  I'm open to collaborating on any projects where I could learn something new!
