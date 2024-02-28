@@ -9,8 +9,6 @@ Motivated Software Engineer with a unique background as a 3 Michelin-starred Pas
 *   🌍  I'm based in New York City
 *   🖥️  See my portfolio at [Angelapace.tech](https://angelapace.tech/)
 *   ✉️  You can contact me at [angpace13@gmail.com](mailto:angpace13@gmail.com)
-*   🧠  I'm currently studying Leetcodes Interview Crash Course.
-*   🤝  I'm open to collaborating on any projects where I could learn something new!
 
 Skills 
 <p align="left">
