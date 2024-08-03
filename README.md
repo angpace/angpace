@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angela Pace
 ===================================================================================================================================
 
-Software Engineer
+Operations Engineer @ Goodway Group
 -----------------
 
-Motivated Software Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.
+Motivated Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.
 
 *   🌍  I'm based in New York City
 *   🖥️  See my portfolio at [Angelapace.tech](https://angelapace.tech/)
