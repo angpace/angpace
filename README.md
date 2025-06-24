@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Operations Engineer @ Goodway Group
 -----------------
 
-Motivated Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.
-
+Motivated Engineer bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development with a unique background as a 3 Michelin-starred Pastry Chef.
 *   🌍  I'm based in New York City
 *   🖥️  See my portfolio at [Angelapace.tech](https://angelapace.tech/)
 *   ✉️  You can contact me at [angpace13@gmail.com](mailto:angpace13@gmail.com)
